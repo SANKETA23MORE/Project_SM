@@ -1,0 +1,7 @@
+# Weather Forecast Application
+
+## Overview
+This is a simple weather forecast application built using JavaScript, HTML, and CSS, with Tailwind CSS for styling. The application retrieves weather data from OpenWeatherMap API and displays current weather conditions and extended forecasts.
+
+## Features
+- Search for weather by
